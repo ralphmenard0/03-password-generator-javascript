@@ -1,4 +1,8 @@
 03 JavaScript: Password Generator
+
+Deployed App URL:
+https://ralphmenard0.github.io/03-password-generator-javascript/
+
 Description
 Create a deployed and functional password generator by writing JavaScript that queries the user for preferences and updates content on a pre-existing webpage.
 
